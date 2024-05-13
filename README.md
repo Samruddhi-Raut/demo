@@ -1,3 +1,4 @@
 # demo
 This is my first git  repository
-author samruddhi raut
+<br>
+Author-Samruddhi Raut
